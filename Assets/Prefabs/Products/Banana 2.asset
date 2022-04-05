@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e179f1cdded91c499d3b167c0e315b6, type: 3}
+  m_Name: Banana 2
+  m_EditorClassIdentifier: 
+  ProcutObject: {fileID: 7792134494832322278, guid: 1e1e057068bc17c4ba7f1d746fb58941, type: 3}
+  ProductType: 5
+  Cost: 33
+  Img: {fileID: 21300000, guid: 17e1fdaa9ce69464ca6b5b0b58e66d72, type: 3}
+  IsTaked: 0
+  IsDelevered: 0
